@@ -1,9 +1,9 @@
-#include <stdio.h>
-
 /* *
  * Author: Tonmoy M
- * URL: https://github.com/qinetique
+ * URL: https://qinetique.github.io
  * */
+
+#include <stdio.h>
 
 int main(){
     char s[100];
